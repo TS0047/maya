@@ -1,0 +1,13 @@
+python>=3.11
+ollama
+kokoro
+sounddevice
+torch
+numpy
+pyaudio
+faster-whisper
+langchain
+langchain-core
+langchain-ollama
+langgraph
+AppOpener
